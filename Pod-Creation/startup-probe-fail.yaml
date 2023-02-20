@@ -17,6 +17,6 @@ spec:
       exec:
         command:
         - cat
-        - /etc/hostname
+        - /etc/sudipta
       periodSeconds: 10
       failureThreshold: 10
