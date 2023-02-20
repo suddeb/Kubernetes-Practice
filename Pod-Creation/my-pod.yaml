@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+spec:
+  containers:
+    - name: my-container
+      image: nginx:latest
+      livenessProbe:
+        httpGet:
+          path: /index.html
+          port: 80
+        initialDelaySeconds: 15
+        periodSeconds: 10
