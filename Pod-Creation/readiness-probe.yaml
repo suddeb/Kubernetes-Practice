@@ -5,7 +5,6 @@ metadata:
   labels:
     test: readiness
     purpose: demonstrate-readiness-probe
-  name: readiness-exec
 spec:
   containers:
   - name: my-container

@@ -5,7 +5,6 @@ metadata:
   labels:
     test: liveness
     purpose: demonstrate-liveness-probe
-  name: liveness-exec
 spec:
   containers:
   - name: my-container
