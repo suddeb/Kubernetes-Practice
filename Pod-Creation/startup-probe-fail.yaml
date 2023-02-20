@@ -12,11 +12,11 @@ spec:
     args:
     - /bin/sh
     - -c
-    - sleep 300
+    - sleep 300;
     startupProbe:
       exec:
         command:
         - cat
         - /etc/sudipta
       periodSeconds: 10
-      failureThreshold: 10
+      failureThreshold: 5
