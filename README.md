@@ -3,7 +3,7 @@
 Putting all my Kubernetes Configurations in this repository. 
 Will be refering this file in my blog and youtube channel.
 
-## ** Blog Post and Youtube Videos **</br>
+## Blog Post and Youtube Videos </br>
 
 📣 **Basics of Kubernetes Architecture** </br>
 &nbsp;&nbsp;&nbsp;Blog: https://sudipta-deb.in/2023/02/basics-of-kubernetes-architecture.html </br>
@@ -19,7 +19,7 @@ Will be refering this file in my blog and youtube channel.
 
 
 
-## ** Other Important Links **</br>
+## Other Important Links </br>
 📣 **My Favourite 5 Essential Kubernetes GitHub Projects** </br>
 &nbsp;&nbsp;&nbsp;Blog: https://sudipta-deb.in/2024/04/my-favourite-5-essential-kubernetes-github-projects.html </br>
 
