@@ -12,6 +12,16 @@ Will be refering this file in my blog and youtube channel.
 &nbsp;&nbsp;&nbsp;Blog: https://sudipta-deb.in/2023/02/how-to-run-kubernetes-locally-in-docker-desktop.html </br>
 &nbsp;&nbsp;&nbsp;Video: https://youtu.be/dZXXulK97u8 </br>
 
+📣 <b>Creating Pods & Check Pod Health in Kubernetes</b> </br>
+&nbsp;&nbsp;&nbsp;Blog: https://sudipta-deb.in/2023/03/how-to-create-pods-and-check-pod-health-in-kubernetes.html </br>
+&nbsp;&nbsp;&nbsp;Video: https://youtu.be/lNvk7chNFeM </br>
+
+
+
+<b> Other Important Links <b>
+📣 <b>My Favourite 5 Essential Kubernetes GitHub Projects</b> </br>
+&nbsp;&nbsp;&nbsp;Blog: https://sudipta-deb.in/2024/04/my-favourite-5-essential-kubernetes-github-projects.html </br>
+
 
 
 📌 Blog: https://sudipta-deb.in/ </br> 
